@@ -1,0 +1,29 @@
+{
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceOrientation" : 0,
+  "sharedPrototype" : 0,
+  "contentScale" : 1,
+  "deviceType" : "apple-iphone-5c-blue",
+  "selectedHand" : "",
+  "updateDelay" : 0.3,
+  "deviceScale" : "fit",
+  "foldedCodeRanges" : [
+    "{0, 224}",
+    "{225, 87}",
+    "{313, 122}",
+    "{436, 1523}",
+    "{1960, 519}",
+    "{2480, 319}",
+    "{2800, 1596}",
+    "{4397, 296}",
+    "{4694, 2673}",
+    "{7368, 987}",
+    "{8356, 329}",
+    "{8686, 7039}",
+    "{15726, 3388}"
+  ],
+  "orientation" : 0,
+  "fullScreen" : false
+}
